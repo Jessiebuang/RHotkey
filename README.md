@@ -42,6 +42,7 @@ Z: LEFT
 X: RIGHT
 
 Other Keys
+(U): Delete keyframe
 (Y): Toggle Focus Mode (since F has been remapped as DOWN arrow)
 (H): Hide/Show cuboids
 (CapsLock): Caps will only be ON while holding and will automatically turn OFF once released.
