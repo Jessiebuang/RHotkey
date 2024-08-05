@@ -1,4 +1,4 @@
-# Rhotkey
+# RHotkey
 Rhotkey a Hotkey Project for Remotaskers
 
 Overview
