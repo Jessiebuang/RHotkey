@@ -1,8 +1,5 @@
-# RHotkey
-Rhotkey a Hotkey Project for Remotaskers
-
 Overview
-This README provides instructions for using the AHK script designed for the Rabbit_Lidar_Annotation_Dynamic project. 
+This README provides instructions for using the AHK script designed for the Rabbit_Lidar_Annotation_Dynamic project.
 The script includes several hotkeys for navigation and control within the project.
 
 Note: Ensure you're in Focus Mode for optimal functionality.
@@ -35,16 +32,17 @@ Example Key Mappings
 
 Arrow Key Mappings
 R, F, Z, and X function like arrow keys and can be combined with Shift.
-SHIFT + R: BIG UP movement
+(SHIFT + R): BIG UP movement
 R: UP
 F: DOWN
 Z: LEFT
 X: RIGHT
 
 Other Keys
-(U): Delete Keyframe
-(Y): Toggle Focus Mode (since F has been remapped as DOWN arrow)
 (H): Hide/Show cuboids
+(U): Delete Key Frame (Backspace)
+(SHIFT + C): Confirm Key Frame (equal to SHIFT + ENTER)
+(Y): Toggle Focus Mode (since F has been remapped as DOWN arrow)
 (CapsLock): Caps will only be ON while holding and will automatically turn OFF once released.
 
 *****Advanced Usage*****
@@ -81,4 +79,3 @@ If you find this project useful and would like to support it, any donation is gr
 
 GCash: +639634703136
 PayPal: jessiedabuang5@gmail.com
-
